@@ -1,0 +1,16 @@
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.exe
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.deps.json
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.runtimeconfig.json
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.runtimeconfig.dev.json
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.dll
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ref\ATM.dll
+C:\Users\berk.karasu\Desktop\ATM\bin\Debug\net5.0\ATM.pdb
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.AssemblyInfoInputs.cache
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.AssemblyInfo.cs
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.csproj.CoreCompileInputs.cache
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.dll
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ref\ATM.dll
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.pdb
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.genruntimeconfig.cache
+C:\Users\berk.karasu\Desktop\ATM\obj\Debug\net5.0\ATM.csproj.AssemblyReference.cache
